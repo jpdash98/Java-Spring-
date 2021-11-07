@@ -1,3 +1,5 @@
+           SPRING 
+-----------------------------------------
 what is spring ?
 Modules OF spring  ?
 What is IOC? 
@@ -6,3 +8,42 @@ what is Construtor Injection  ?
 what is setter injection ?
 ci vs si ?
 what is Spring configuration file  ?
+what is spring beans?
+scopes of the spring bean?
+what is bean wiring ?
+what is autowiring and different modes of it  ?
+What are the limitations of autowiring?
+
+SPRING MVC
+-----------------------------
+what is dispatcher servlet ?
+what is mvc work flow ?
+what is model, view , and controller ?
+what is front controller ?
+what is model , modelmap,modelandview ?
+ Viewresolver in spring mvc  ?
+ spring mvc interceptor
+ HandlleRmapping 
+
+
+
+Annotation 
+------------------
+@Autowired
+@qualifier
+@RequestMapping 
+@postmapping , @GetMapping 
+@pathVaribale 
+@controller 
+@RestController 
+@modelattribute 
+@service 
+@repository
+
+
+@RequestBody and @ResponseBody
+@SessionAtrributes and @SessionAtrribute 
+@EnableWebMVC
+@ControllerAdvice 
+@ExceptionHandler
+
